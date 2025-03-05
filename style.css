@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.weather {
+  position: fixed;
+  right: 0;
+}
+
+.wind {
+  color: blueviolet;
+}
+
+.wind:hover {
+  color: purple;
+}
